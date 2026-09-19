@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+moodle-vhs.essen.de	TRUE	/	FALSE	1999999999	MoodleSession	tf1cs79efolul8o68egfde5nvc
+moodle-vhs.essen.de	TRUE	/	FALSE	1999999999	MOODLEID1_	sodium%3AWzf%2BS4fEtnp5C3zr%2Br0Fy2Je6l3i4j9t2gJJmJnPiaJdwsZnnQrKqu1yxrE4dXSkHkU%3D
+
